@@ -72,7 +72,7 @@ body {
 
         <div class="row">
           <div class="input-field col s12">
-            <a href="<?=$googelAuthUrl;?>"><img src="<?=base_url('assets/img/google.png');?>" alt="google" class="responsive-img valign profile-image-login"/></a>
+            <a href="<?=$googelAuthUrl;?>"><img src="<?=base_url('assets/img/glogin.png');?>" alt="google" class="responsive-img valign profile-image-login"/></a>
           </div>
         </div>
 
