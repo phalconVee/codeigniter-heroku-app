@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Codeigniter OAUTH App - Login</title>
+  <title>Codeigniter 3 OAUTH App - Login</title>
   <!-- CORE CSS-->
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
@@ -43,7 +43,7 @@ body {
         <div class="row">
           <div class="input-field col s12 center">
             <img src="<?=base_url('assets/img/logo-x.png');?>" alt="" class="responsive-img valign profile-image-login">
-            <p class="center login-form-text">Codeigniter OAUTH App Demo</p>
+            <p class="center login-form-text">Codeigniter 3.x OAUTH App Demo</p>
           </div>
         </div>
         <div class="row margin">
